@@ -2,18 +2,6 @@
   <img src="banner.png" width="100%" alt="Eat Sleep Code Repeat">
 </p>
 
-<h1 align="center">
-  <span style="color:#FFD600;">BENJAMIN J</span> ALANI
-</h1>
-
-<p align="center">
-  <code>BCA GRADUATE</code>
-  &nbsp; • &nbsp;
-  <code>CREATIVE</code>
-  &nbsp; • &nbsp;
-  <code>FULL-STACK</code>
-</p>
-
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=BENJAMIN%E2%80%8E%20%E2%80%8E%20J%20%E2%80%8E%20ALANI&fontSize=45&fontColor=FFFF00&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=BCA%20GRADUATE%20%20%E2%80%8E%20%20%E2%80%8E%20%E2%80%A2%20%20%E2%80%8E%20%E2%80%8E%20%20CREATIVE%20%20%E2%80%8E%E2%80%8E%20%20%20%E2%80%A2%20%E2%80%8E%20%E2%80%8E%20%20%20FULL-STACK&descSize=11&descAlign=50&descAlignY=80&textBg=false&color=gradient"  />
 </div>
