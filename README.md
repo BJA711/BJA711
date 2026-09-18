@@ -7,9 +7,9 @@
 </h1>
 
 <p align="center">
-  <code>DEVELOPER</code>
+  <code>BCA GRADUATE</code>
   &nbsp; • &nbsp;
-  <code>CREATIVE TECHNOLOGIST</code>
+  <code>CREATIVE</code>
   &nbsp; • &nbsp;
   <code>FULL-STACK</code>
 </p>
@@ -18,15 +18,15 @@
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=C" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=Cplusplus" height="60" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=HTML5" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=CSS3" height="60" alt="graphql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
   <img width="12" />
