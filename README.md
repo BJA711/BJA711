@@ -6,12 +6,9 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&text=BENJAMIN%E2%80%8E%20%E2%80%8E%20J%20%E2%80%8E%20ALANI&fontSize=45&fontColor=FFFF00&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=BCA%20GRADUATE%20%20%E2%80%8E%20%20%E2%80%8E%20%E2%80%A2%20%20%E2%80%8E%20%E2%80%8E%20%20CREATIVE%20%20%E2%80%8E%E2%80%8E%20%20%20%E2%80%A2%20%E2%80%8E%20%E2%80%8E%20%20%20FULL-STACK&descSize=11&descAlign=50&descAlignY=80&textBg=false&color=gradient"/>
 </div>
 ###
-
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:maurodesouza?theme=gelbooru&padding=5&offset=05&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
-
-###
 ###
 
 <div data-importer="techs" align="center">
